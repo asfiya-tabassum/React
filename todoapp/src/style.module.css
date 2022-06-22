@@ -1,0 +1,53 @@
+body{
+    margin:0 ;
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;   
+}
+.header {
+    background-color:rgba(139, 0, 23, 0.65);
+    font-size:50px;
+    height: 50px;
+    padding: 20px;
+}
+.todoform{
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+.todoinput{
+    width:10%;
+    border:none;
+    border-bottom: 1px;
+    font-size: 1.5em;
+    text-align:left;
+    height: 30px;
+    padding-right: 50px;
+}
+.todobutton{
+    width:10%;
+    border: none;
+    border-bottom: 1px;
+    font-size: 1.5em;
+    text-align: center;
+    height: 30px;
+    padding-right: 50px;
+    background-color: aqua;
+}
+.todname{
+
+}
+.todoitem{
+    margin: auto;
+    border: 2px solid whitesmoke;
+    padding:20px;
+    margin-top: 20px;
+}
+.donebutton{
+    width:10%;
+    border: none;
+    border-bottom: 1px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    background-color: aqua;
+}
